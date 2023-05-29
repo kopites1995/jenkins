@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('test-jenkins', function () {
     return view('test-jenkins');
 });
+
+Route::get('pipeline', function () {
+    return view('pipeline');
+});
