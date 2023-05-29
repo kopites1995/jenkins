@@ -1,1 +1,1 @@
-Pipeline Freestyle
+Pipeline Mode
