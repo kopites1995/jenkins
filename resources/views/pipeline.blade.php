@@ -1,1 +1,1 @@
-Pipelines
+Pipeline Freestyle
