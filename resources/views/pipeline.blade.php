@@ -1,1 +1,1 @@
-Pipeline Mode Project ABCD
+Pipeline Mode Project ABCD Freestyle
